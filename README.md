@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @igoraraujolemos
-- 👀 I’m interested in studying and creating repositories
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me = igorlopeslemos@gmail.com
+- Hi, I’m Igor Lemos!
+- I have knowledge in HTML, CSS and Bootstrap. Constantly evolving.
+- I am looking for a constant personal and professional evolution.
+- igorlopeslemos@gmail.com
 
 <!---
 igoraraujolemos/igoraraujolemos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
