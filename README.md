@@ -1,5 +1,5 @@
 - Hi, I’m Igor Lemos!
-- I have knowledge in HTML, CSS and Bootstrap. Constantly evolving.
+- I have knowledge in HTML, CSS and Bootstrap.
 - I am looking for a constant personal and professional evolution.
 - igorlopeslemos@gmail.com
 
